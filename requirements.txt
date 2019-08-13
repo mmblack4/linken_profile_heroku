@@ -1,4 +1,4 @@
-flask
+Flask==1.0.2
 flask_sqlalchemy
-psycopg2
-uwsgi
+flask_restful
+gunicorn==19.9.0
